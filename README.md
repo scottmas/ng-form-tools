@@ -4,7 +4,7 @@
 A directive and some dom manipulation functions. Currently I'm undecided if the
 dom manipulation functions should be publicly exposed via angular.element or kept private.
 
-Note: This library requires the ngExtender module to also be loaded.
+Note: This library requires the ngHooks module to also be loaded.
 
 Example Usage
 
